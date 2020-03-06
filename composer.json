@@ -1,0 +1,7 @@
+{
+  "name": "vijaycs85/drupal-layout-fourcol",
+  "type": "drupal-layout",
+  "require": {
+    "vijaycs85/drupal-layout-installer-plugin": "^1"
+  }
+}
